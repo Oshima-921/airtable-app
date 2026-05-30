@@ -16,10 +16,10 @@
     "@markdoc/markdoc": "^0.5.7",
     "@mui/material": "^9.0.1",
     "@mui/system": "^9.0.1",
-    "@mui/x-charts": "^9.2.0",
+    "@mui/x-charts": "^9.3.0",
     "@sendgrid/mail": "^8.1.6",
     "@slack/web-api": "^7.16.0",
-    "@vercel/blob": "^2.3.3",
+    "@vercel/blob": "^2.4.0",
     "@vercel/functions": "^3.6.0",
     "airtable": "^0.12.2",
     "clsx": "^2.1.1",
@@ -52,7 +52,7 @@
     "prettier": "^3.8.3",
     "prettier-plugin-tailwindcss": "^0.8.0",
     "tailwindcss": "^3.4.19",
-    "tsx": "^4.22.0",
+    "tsx": "^4.22.3",
     "typescript": "^6"
   }
 }
